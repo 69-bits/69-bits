@@ -1,11 +1,9 @@
 name: Generate trophy card
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
     - main
@@ -23,7 +21,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           theme: gruvbox
           max-rows: 1
           margin-width: 8
@@ -32,7 +30,7 @@ jobs:
           no-frame: true
 
       - name: push trophy.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: trophy-output
           build_dir: dist
