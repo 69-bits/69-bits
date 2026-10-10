@@ -4,13 +4,12 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/69-bits/69-bits/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/69-bits/69-bits/trophy-output/trophy.svg?theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/69-bits/69-bits/activity-graph-output/activity-graph.svg?radius=16&theme=gruvbox&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://64.media.tumblr.com/5a78b745c1954e46983895e382cbcefe/394e0c8d448c03b9-6d/s1280x1920/44a1648e1ca21aeb66c2a35527a37493ed0bf987.gif"  />
+<img data-importer="image" align="right" height="150" src="https://media.tenor.com/MGCdEpM7WVIAAAAj/smile-cute.gif"  />
 
 ###
 
