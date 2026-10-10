@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.tenor.com/MGCdEpM7WVIAAAAj/smile-cute.gif"  />
+<img data-importer="image" align="right" height="150" src="./garfield.gif"/>
 
 ###
 
